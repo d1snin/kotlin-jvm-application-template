@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  kotlin-jvm-application-template:
+    image: kotlin-jvm-application-template:latest
+    container_name: kotlin-jvm-application-template
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    env_file: ../.env
+    restart: always
