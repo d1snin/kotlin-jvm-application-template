@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Java CI with Gradle](https://github.com/d1snin/kotlin-jvm-application-template/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/d1snin/kotlin-jvm-application-template/actions/workflows/gradle.yml)
+
+[//]: # ([![Java CI with Gradle]&#40;https://github.com/d1snin/kotlin-jvm-application-template/actions/workflows/gradle.yml/badge.svg?branch=main&#41;]&#40;https://github.com/d1snin/kotlin-jvm-application-template/actions/workflows/gradle.yml&#41;)
 
 ### kotlin-jvm-application-template
 
