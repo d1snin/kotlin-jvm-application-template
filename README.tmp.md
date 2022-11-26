@@ -12,7 +12,7 @@ Description.
 - [Configuration](#Configuration)
 - [Running](#Running)
 - [Usage](#Usage)
-- [Code of Conduct](#Code%20of%20Conduct)
+- [Code of Conduct](#Code of Conduct)
 - [License](#License)
 
 ### Features
